@@ -1,0 +1,4 @@
+Best setting by mean Q-error: eps_linear_1_to_001__alpha_harmonic
+Q-error mean/std: 0.040756 / 0.005026
+Value-error mean/std: 0.035183 / 0.005590
+Policy mismatch mean/std: 0.224619 / 0.018911
